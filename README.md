@@ -1,5 +1,7 @@
 **This repository is currently under construction**
 
+![https://dss.berkeley.edu/static/img/logo.jpg]
+
 # Teaching Repository
 
 Author: Alex Nakagawa
