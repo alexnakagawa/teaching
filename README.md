@@ -8,8 +8,10 @@ This is a repository where all of the workshop and curriculum materials I have c
 
 ## Directory
 
+* [[decal-sql-lecture](https://github.com/alexnakagawa/teaching/tree/master/decal-sql-lecture)] - Introductino to PostgreSQL, SQL, and Relational Database Management Systems for the "Practical Data Science Skills for Internships" lecture series.
+
 * [[dss-intro-ml-workshop](https://github.com/alexnakagawa/teaching/tree/master/dss-intro-ml-workshop)] - Introduction to Machine Learning, with a focus on case studies, and how data scientists follow the data science lifecycle in the industry to approach certain problems. Created in collaboration with Victor Li.
 
-* [[dss-intro-r-workshop](https://github.com/alexnakagawa/teaching/tree/master/dss-intro-r-workshop)] - Introduction to using the R statistical programming language for data science. Created in collaboration with Jun Seo Park.
+* [[dss-intro-r-workshop](https://github.com/alexnakagawa/teaching/tree/master/dss-intro-r-workshop)] - Introduction to using the R statistical programming language for data science. Created in collaboration with Junseo Park.
 
 * [[dss-python-ii-workshop](https://github.com/alexnakagawa/teaching/tree/master/dss-python-ii-workshop)] - Complete crash course on Python syntax with introductions to numpy and pandas for data science. Created in collaboration with Neelesh Dodda.
