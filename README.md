@@ -20,6 +20,6 @@ This is a repository where all of the workshop and curriculum materials I have c
 
 ## External Teaching Resources
 
-* [[Data ScienceModules Textbook](https://github.com/ds-modules/modules-textbook)] - Lead an effort to consolidate Data Science Modules developed at UC Berkeley, co-edited by Shalini Kunapuli and Chris Pyles
+* [[Data Science Modules Textbook](https://ds-modules.github.io/modules-textbook/intro)] - Lead an effort to consolidate Data Science Modules developed at UC Berkeley, co-edited by Shalini Kunapuli and Chris Pyles
 
 * [[PH 241: Statistical Analysis of Categorical Variables](https://github.com/PH241/materials)] - Graduate Course on Epidemiology. Created in collaboration with Nolan Pokpongkiat
